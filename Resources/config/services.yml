@@ -1,0 +1,7 @@
+parameters:
+    btce_api.class: Undelete\BTCEApi\Api
+    btce_api.no_key.class: Undelete\BTCEApi\ApiNoKey
+
+services:
+    btce_api.no_key:
+        class: %btce_api.no_key.class%
