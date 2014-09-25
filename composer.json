@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "undelete/btce-api": "*"
+        "undelete/btce-api": "dev-master"
     }
 }
