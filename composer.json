@@ -7,7 +7,7 @@
             "email": "undelete.jotm@gmail.com"
         }
     ],
-    "require": {
+    "require-dev": {
         "undelete/btce-api": "dev-master"
     }
 }
