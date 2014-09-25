@@ -7,6 +7,7 @@
             "email": "undelete.jotm@gmail.com"
         }
     ],
+    "target-dir": "Undelete/BTCEApiBundle",
     "autoload": {
         "psr-0": { "Undelete\\BTCEApiBundle": "" }
     },
