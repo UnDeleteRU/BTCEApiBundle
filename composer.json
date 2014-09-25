@@ -1,0 +1,10 @@
+{
+    "name": "undelete/btce-api-bundle",
+    "description": "BTC-e Api bundle for symfony",
+    "authors": [
+        {
+            "name": "Alexandr Alexeev",
+            "email": "undelete.jotm@gmail.com"
+        }
+    ]
+}
