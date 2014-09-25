@@ -6,5 +6,8 @@
             "name": "Alexandr Alexeev",
             "email": "undelete.jotm@gmail.com"
         }
-    ]
+    ],
+    "require": {
+        "undelete/btce-api": "*"
+    }
 }
