@@ -7,6 +7,9 @@
             "email": "undelete.jotm@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-0": { "Undelete\\BTCEApiBundle": "" }
+    },
     "require-dev": {
         "undelete/btce-api": "dev-master"
     }
